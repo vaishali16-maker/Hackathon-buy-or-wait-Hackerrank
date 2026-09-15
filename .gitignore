@@ -1,0 +1,25 @@
+# Dataset - sample financial data, keep out of public repo
+dataset/
+
+# Submission bundle (zip/output already exist as source files elsewhere)
+Submission/
+code.zip
+output.csv
+log.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+*.env
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
